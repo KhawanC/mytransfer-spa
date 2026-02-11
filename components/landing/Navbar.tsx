@@ -47,10 +47,10 @@ export function Navbar() {
           <LanguageSelector />
           <ThemeToggle />
           <Button asChild variant="ghost">
-            <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank">{t("login")}</Link>
+            <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>{t("login")}</Link>
           </Button>
           <Button asChild>
-            <Link href={`${process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}/register`} target="_blank">{t("startNow")}</Link>
+            <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>{t("startNow")}</Link>
           </Button>
         </div>
 
@@ -84,10 +84,10 @@ export function Navbar() {
           ))}
           <div className="flex flex-col gap-2 mt-2">
             <Button asChild variant="outline" className="w-full">
-              <Link href={process.env.NEXT_PUBLIC_APP_URL || "#"} target="_blank">{t("login")}</Link>
+              <Link href={process.env.NEXT_PUBLIC_APP_URL || "#"}>{t("login")}</Link>
             </Button>
             <Button asChild className="w-full">
-              <Link href={`${process.env.NEXT_PUBLIC_APP_URL || "#"}/register`} target="_blank">{t("startNow")}</Link>
+              <Link href={process.env.NEXT_PUBLIC_APP_URL || "#"}>{t("startNow")}</Link>
             </Button>
           </div>
         </motion.div>

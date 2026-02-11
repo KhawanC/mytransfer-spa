@@ -49,7 +49,7 @@ export function Hero() {
                     className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8 w-full px-4"
                 >
                     <Button size="lg" className="h-12 px-8 text-lg gap-2 cursor-pointer shadow-lg shadow-primary/20 transition-transform hover:scale-105 w-full sm:w-auto" asChild>
-                        <Link href={`${process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}/register`} target="_blank">
+                        <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>
                             {t("startNow")} <ArrowRight className="w-5 h-5" />
                         </Link>
                     </Button>

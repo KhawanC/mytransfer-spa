@@ -67,7 +67,7 @@ export function PremiumBenefits() {
                             </CardContent>
                             <CardFooter className="pb-8 pt-4">
                                 <Button className="w-full h-12 text-lg shadow-lg shadow-primary/20" size="lg" asChild>
-                                    <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank">
+                                    <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>
                                         {t("card.cta")}
                                     </Link>
                                 </Button>
