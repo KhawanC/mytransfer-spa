@@ -47,10 +47,10 @@ export function Navbar() {
           <LanguageSelector />
           <ThemeToggle />
           <Button asChild variant="ghost">
-            <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>{t("login")}</Link>
+            <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">{t("login")}</a>
           </Button>
           <Button asChild>
-            <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>{t("startNow")}</Link>
+            <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">{t("startNow")}</a>
           </Button>
         </div>
 
@@ -84,10 +84,10 @@ export function Navbar() {
           ))}
           <div className="flex flex-col gap-2 mt-2">
             <Button asChild variant="outline" className="w-full">
-              <Link href={process.env.NEXT_PUBLIC_APP_URL || "#"}>{t("login")}</Link>
+              <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">{t("login")}</a>
             </Button>
             <Button asChild className="w-full">
-              <Link href={process.env.NEXT_PUBLIC_APP_URL || "#"}>{t("startNow")}</Link>
+              <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">{t("startNow")}</a>
             </Button>
           </div>
         </motion.div>

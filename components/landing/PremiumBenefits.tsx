@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { motion } from "framer-motion";
 import { Check } from "lucide-react";
-import Link from "next/link";
 import { useTranslations } from "next-intl";
 
 export function PremiumBenefits() {
@@ -67,9 +66,9 @@ export function PremiumBenefits() {
                             </CardContent>
                             <CardFooter className="pb-8 pt-4">
                                 <Button className="w-full h-12 text-lg shadow-lg shadow-primary/20" size="lg" asChild>
-                                    <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>
+                                    <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">
                                         {t("card.cta")}
-                                    </Link>
+                                    </a>
                                 </Button>
                             </CardFooter>
                         </Card>

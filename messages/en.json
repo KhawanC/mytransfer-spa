@@ -1,8 +1,8 @@
 {
     "Metadata": {
-        "title": "MePassa - File Transfer and Conversion",
-        "description": "The simplest, fastest, and most secure way to transfer and convert files. Share files from PC to mobile, convert MP4 to GIF, MP3 to OGG, and much more. Unlimited and fully online.",
-        "keywords": "file transfer, file converter, share files, online file converter, transfer file from pc to mobile, transfer files from mobile to pc, send large files, share photos, send videos, convert mp3 to ogg, mp3 to ogg, wav to mp3, audio converter, convert m4a to mp3, convert mp4 to gif, mp4 to gif, mov to mp4, avi to mp4, mkv to mp4, video converter, compress video, jpg to png, png to jpg, webp to png, png to webp, heic to jpg, image converter, pdf to docx, docx to pdf, pdf to word, document converter, secure transfer, end-to-end encryption, no size limit, free transfer, mepassa"
+        "title": "Free Online File Converter & Transfer | Convert MOV to MP4, HEIC to JPG, MP3 | MePassa",
+        "description": "Convert MOV to MP4, HEIC to JPG, MP3 to OGG and 50+ formats for free. Transfer files from PC to mobile securely. No installation, 100% online file converter.",
+        "keywords": "convert mov to mp4, online file converter, convert heic to jpg, mp4 to gif converter, png to jpg, transfer files pc to mobile, file transfer without cable, convert mp3 to ogg, wav to mp3 converter, audio converter, convert m4a to mp3, avi to mp4, mkv to mp4, video converter, compress video online, jpg to png, webp to png, png to webp, image converter, pdf to docx, docx to pdf, pdf to word, document converter, secure transfer, end-to-end encryption, no size limit, free transfer, share large files, send large videos, mepassa, free converter, lossless conversion"
     },
     "Navbar": {
         "howItWorks": "How It Works",
@@ -14,9 +14,9 @@
     },
     "Hero": {
         "newVersion": "✨ New version available",
-        "titlePrefix": "Share files simply,",
-        "titleSuffix": "Fast and Securely",
-        "description": "MePassa is the definitive solution for file transfer. No limits, no mandatory registration, directly from your browser.",
+        "titlePrefix": "Free Online File Converter & Transfer",
+        "titleSuffix": "Fast, Secure, No Installation",
+        "description": "Convert MOV to MP4, HEIC to JPG, MP3 to OGG and more. Transfer files from PC to mobile without cables. 100% online, no installation required.",
         "startNow": "Start Now",
         "badges": {
             "instantTransfer": "Instant Transfer",

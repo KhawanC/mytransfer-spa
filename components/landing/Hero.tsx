@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { BackgroundPaths } from "./BackgroundPaths";
 import { BlurText } from "./BlurText";
 import { motion } from "framer-motion";
-import Link from "next/link";
 import { ArrowRight, Zap, Shield, Share2 } from "lucide-react";
 import { useTranslations } from "next-intl";
 
@@ -49,9 +48,9 @@ export function Hero() {
                     className="flex flex-col sm:flex-row gap-4 justify-center items-center mt-8 w-full px-4"
                 >
                     <Button size="lg" className="h-12 px-8 text-lg gap-2 cursor-pointer shadow-lg shadow-primary/20 transition-transform hover:scale-105 w-full sm:w-auto" asChild>
-                        <Link href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"}>
+                        <a href={process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000"} target="_blank" rel="noopener noreferrer">
                             {t("startNow")} <ArrowRight className="w-5 h-5" />
-                        </Link>
+                        </a>
                     </Button>
                 </motion.div>
 

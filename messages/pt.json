@@ -1,8 +1,8 @@
 {
     "Metadata": {
-        "title": "MePassa - Transferência e Conversão de Arquivos",
-        "description": "A maneira mais simples, rápida e segura de transferir e converter arquivos. Compartilhe arquivos do PC para celular, converta MP4 para GIF, MP3 para OGG, e muito mais. Sem limites e totalmente online.",
-        "keywords": "transferência de arquivos, conversor de arquivos, compartilhar arquivos, passar arquivo do pc para o celular, transferir arquivos do celular para o pc, enviar arquivos grandes, compartilhar fotos, enviar vídeos, converter mp3 para ogg, mp3 to ogg, wav para mp3, audio converter, converter m4a para mp3, converter mp4 para gif, mp4 to gif, mov para mp4, avi para mp4, mkv para mp4, video converter, compress video, jpg para png, png para jpg, webp para png, png para webp, heic para jpg, image converter, pdf para docx, docx para pdf, pdf to word, converter documentos, transferência segura, criptografia ponta a ponta, sem limite de tamanho, transferência grátis, mepassa"
+        "title": "Conversor e Transferência de Arquivos Online Grátis | Converta MP4, MOV, MP3, JPG | MePassa",
+        "description": "Converta MOV para MP4, HEIC para JPG, MP3 para OGG e mais de 50 formatos gratuitamente. Transfira arquivos do PC para celular com segurança. Sem instalação, 100% online.",
+        "keywords": "converter mov para mp4, conversor de arquivos online, converter heic para jpg, mp4 para gif, png para jpg, transferir arquivos pc celular, passar arquivo sem cabo, converter mp3 para ogg, wav para mp3, audio converter, converter m4a para mp3, avi para mp4, mkv para mp4, video converter, comprimir video online, jpg para png, webp para png, png para webp, image converter, pdf para docx, docx para pdf, pdf to word, converter documentos, transferência segura, criptografia ponta a ponta, sem limite de tamanho, transferência grátis, compartilhar arquivo grande, enviar vídeos grandes, mepassa, conversor gratuito, conversão sem perder qualidade"
     },
     "Navbar": {
         "howItWorks": "Como Funciona",
@@ -14,9 +14,9 @@
     },
     "Hero": {
         "newVersion": "✨ Nova versão disponível",
-        "titlePrefix": "Compartilhe arquivos de forma",
-        "titleSuffix": "Simples, Rápida e Segura",
-        "description": "O MePassa é a solução definitiva para transferência de arquivos. Sem limites, sem cadastro obrigatório, direto do seu navegador.",
+        "titlePrefix": "Conversor e Transferência de Arquivos Online",
+        "titleSuffix": "Grátis, Rápido e Seguro",
+        "description": "Converta MOV para MP4, HEIC para JPG, MP3 para OGG e mais. Transfira arquivos do PC para celular sem cabo. 100% online, sem instalação.",
         "startNow": "Começar Agora",
         "badges": {
             "instantTransfer": "Transferência instantânea",
