@@ -1,0 +1,91 @@
+{
+    "Metadata": {
+        "title": "MePassa - File Transfer and Conversion",
+        "description": "The simplest, fastest, and most secure way to transfer and convert files. Share files from PC to mobile, convert MP4 to GIF, MP3 to OGG, and much more. Unlimited and fully online.",
+        "keywords": "file transfer, file converter, share files, online file converter, transfer file from pc to mobile, transfer files from mobile to pc, send large files, share photos, send videos, convert mp3 to ogg, mp3 to ogg, wav to mp3, audio converter, convert m4a to mp3, convert mp4 to gif, mp4 to gif, mov to mp4, avi to mp4, mkv to mp4, video converter, compress video, jpg to png, png to jpg, webp to png, png to webp, heic to jpg, image converter, pdf to docx, docx to pdf, pdf to word, document converter, secure transfer, end-to-end encryption, no size limit, free transfer, mepassa"
+    },
+    "Navbar": {
+        "howItWorks": "How It Works",
+        "benefits": "Benefits",
+        "conversion": "Conversion",
+        "premium": "Premium",
+        "login": "Login",
+        "startNow": "Start Now"
+    },
+    "Hero": {
+        "newVersion": "✨ New version available",
+        "titlePrefix": "Share files simply,",
+        "titleSuffix": "Fast and Securely",
+        "description": "MePassa is the definitive solution for file transfer. No limits, no mandatory registration, directly from your browser.",
+        "startNow": "Start Now",
+        "badges": {
+            "instantTransfer": "Instant Transfer",
+            "e2eEncryption": "End-to-End Encryption",
+            "limitlessConversion": "Limitless Conversion"
+        }
+    },
+    "HowItWorks": {
+        "title": "How It Works",
+        "subtitle": "Transferring files has never been simpler. Just three steps separate you from unlimited sharing.",
+        "step1": {
+            "title": "1. Enter Session",
+            "description": "Create a new session or join via an instantly shared link."
+        },
+        "step2": {
+            "title": "2. Connect",
+            "description": "Scan the QR Code with your mobile or other device to establish a secure connection."
+        },
+        "step3": {
+            "title": "3. Transfer",
+            "description": "Drag and drop your files. Transfer starts immediately, without limits."
+        }
+    },
+    "ConversionCapabilities": {
+        "badge": "Total Versatility",
+        "title": "Smart File Conversion",
+        "description": "Don't worry about compatibility. MePassa automatically converts your files to the most suitable formats when needed, maintaining original quality.",
+        "features": {
+            "processing": "Fast and efficient server-side processing",
+            "quality": "Original quality preservation",
+            "largeFiles": "Large file support",
+            "preview": "Instant preview before download"
+        },
+        "categories": {
+            "audio": "Audio",
+            "image": "Image",
+            "video": "Video",
+            "documents": "Documents"
+        }
+    },
+    "PremiumBenefits": {
+        "title": "Go Premium",
+        "subtitle": "Unlock the full potential of MePassa and take your transfers to the next level.",
+        "card": {
+            "recommended": "Recommended",
+            "title": "MePassa Pro",
+            "description": "For professionals and power users",
+            "price": "Starting from $3",
+            "period": "/month",
+            "cta": "Subscribe Now"
+        },
+        "list": {
+            "unlimited": "Unlimited and larger simultaneous sessions",
+            "group": "Group sessions with up to 10 users",
+            "upload": "Upload up to 5GB per file",
+            "maxFiles": "Up to 100 files per session"
+        }
+    },
+    "Footer": {
+        "description": "The simplest and fastest way to share files between devices. No limits, no complications.",
+        "product": "Product",
+        "howItWorks": "How It Works",
+        "benefits": "Features",
+        "premium": "Premium",
+        "legal": "Legal",
+        "social": "Social",
+        "privacy": "Privacy",
+        "terms": "Terms of Use",
+        "cookies": "Cookie Policy",
+        "rights": "MePassa. All rights reserved."
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "Metadata": {
+        "title": "MePassa - Transferência e Conversão de Arquivos",
+        "description": "A maneira mais simples, rápida e segura de transferir e converter arquivos. Compartilhe arquivos do PC para celular, converta MP4 para GIF, MP3 para OGG, e muito mais. Sem limites e totalmente online.",
+        "keywords": "transferência de arquivos, conversor de arquivos, compartilhar arquivos, passar arquivo do pc para o celular, transferir arquivos do celular para o pc, enviar arquivos grandes, compartilhar fotos, enviar vídeos, converter mp3 para ogg, mp3 to ogg, wav para mp3, audio converter, converter m4a para mp3, converter mp4 para gif, mp4 to gif, mov para mp4, avi para mp4, mkv para mp4, video converter, compress video, jpg para png, png para jpg, webp para png, png para webp, heic para jpg, image converter, pdf para docx, docx para pdf, pdf to word, converter documentos, transferência segura, criptografia ponta a ponta, sem limite de tamanho, transferência grátis, mepassa"
+    },
+    "Navbar": {
+        "howItWorks": "Como Funciona",
+        "benefits": "Benefícios",
+        "conversion": "Conversão",
+        "premium": "Premium",
+        "login": "Entrar",
+        "startNow": "Começar Agora"
+    },
+    "Hero": {
+        "newVersion": "✨ Nova versão disponível",
+        "titlePrefix": "Compartilhe arquivos de forma",
+        "titleSuffix": "Simples, Rápida e Segura",
+        "description": "O MePassa é a solução definitiva para transferência de arquivos. Sem limites, sem cadastro obrigatório, direto do seu navegador.",
+        "startNow": "Começar Agora",
+        "badges": {
+            "instantTransfer": "Transferência instantânea",
+            "e2eEncryption": "Criptografia Ponta-a-Ponta",
+            "limitlessConversion": "Conversão sem limites"
+        }
+    },
+    "HowItWorks": {
+        "title": "Como Funciona",
+        "subtitle": "Transferir arquivos nunca foi tão simples. Apenas três passos separam você do compartilhamento ilimitado.",
+        "step1": {
+            "title": "1. Entre na Sessão",
+            "description": "Crie uma nova sessão ou entre através de um link compartilhado instantaneamente."
+        },
+        "step2": {
+            "title": "2. Conecte-se",
+            "description": "Escaneie o QR Code com seu celular ou outro dispositivo para estabelecer a conexão segura."
+        },
+        "step3": {
+            "title": "3. Transfira",
+            "description": "Arraste e solte seus arquivos. A transferência começa imediatamente, sem limites."
+        }
+    },
+    "ConversionCapabilities": {
+        "badge": "Versatilidade Total",
+        "title": "Conversão Inteligente de Arquivos",
+        "description": "Não se preocupe com compatibilidade. O MePassa converte automaticamente seus arquivos para os formatos mais adequados quando necessário, mantendo a qualidade original.",
+        "features": {
+            "processing": "Processamento rápido e eficiente no servidor",
+            "quality": "Preservação da qualidade original",
+            "largeFiles": "Suporte a arquivos grandes",
+            "preview": "Preview instantâneo antes do download"
+        },
+        "categories": {
+            "audio": "Áudio",
+            "image": "Imagem",
+            "video": "Vídeo",
+            "documents": "Documentos"
+        }
+    },
+    "PremiumBenefits": {
+        "title": "Seja Premium",
+        "subtitle": "Desbloqueie todo o potencial do MePassa e leve suas transferências para o próximo nível.",
+        "card": {
+            "recommended": "Recomendado",
+            "title": "MePassa Pro",
+            "description": "Para profissionais e power users",
+            "price": "A partir de R$15",
+            "period": "/mês",
+            "cta": "Assinar Agora"
+        },
+        "list": {
+            "unlimited": "Sessões simultâneas ilimitadas e maiores",
+            "group": "Sessões em grupo com até 10 usuários",
+            "upload": "Upload de até 5GB por arquivo",
+            "maxFiles": "Até 100 arquivos por sessão"
+        }
+    },
+    "Footer": {
+        "description": "A maneira mais simples e rápida de compartilhar arquivos entre dispositivos. Sem limites, sem complicações.",
+        "product": "Produto",
+        "howItWorks": "Como Funciona",
+        "benefits": "Funcionalidades",
+        "premium": "Premium",
+        "legal": "Legal",
+        "social": "Social",
+        "privacy": "Privacidade",
+        "terms": "Termos de Uso",
+        "cookies": "Política de Cookies",
+        "rights": "MePassa. Todos os direitos reservados."
+    }
+}
