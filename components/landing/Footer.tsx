@@ -10,7 +10,7 @@ export function Footer() {
     return (
         <footer className="bg-background border-t border-border">
             <div className="container px-4 md:px-6 py-12 md:py-16 mx-auto">
-                <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
                     <div className="space-y-4">
                         <Link href="/" className="flex items-center gap-2 font-bold text-xl">
                             <div className="bg-primary text-primary-foreground p-1 rounded-lg">
@@ -58,6 +58,16 @@ export function Footer() {
                                 <span className="sr-only">LinkedIn</span>
                             </Link>
                         </div>
+                    </div>
+
+                    <div className="space-y-4">
+                        <h3 className="font-semibold">{t("contact")}</h3>
+                        <Link
+                            href="mailto:equipe@khawantech.online"
+                            className="text-sm text-muted-foreground hover:text-primary transition-colors block"
+                        >
+                            equipe@khawantech.online
+                        </Link>
                     </div>
                 </div>
                 <div className="mt-12 pt-8 border-t border-border text-center text-sm text-muted-foreground">
